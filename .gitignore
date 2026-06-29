@@ -1,2 +1,5 @@
 # 忽略 mcps 目录下的 JSON 文件（可能包含 API Token）
 /mcps/*/mcp.json
+
+# 忽略用户本地 Token 配置
+.mcp.env
