@@ -69,6 +69,7 @@ bash install.sh
 |-------|------|
 | **frontend-design** | 高质量前端界面设计，避免通用 AI 审美 |
 | **cache-components** | Next.js Cache Components 和 PPR 专家指导 |
+| **update-docs** | Next.js 文档更新工作流，分析代码变更并指导文档更新 |
 
 ### MCP
 
