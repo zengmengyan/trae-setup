@@ -3,3 +3,7 @@
 
 # 忽略用户本地 Token 配置
 .mcp.env
+
+# 忽略安装生成的目录
+.agents/
+.trae/
