@@ -1,0 +1,2 @@
+# 忽略 mcps 目录下的 JSON 文件（可能包含 API Token）
+/mcps/*/mcp.json
